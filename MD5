@@ -1,12 +1,12 @@
-717119522952f4e2ce15ec77fe2833db *DESCRIPTION
+11aef73d447200e1a3c2f5ba09d5ec26 *DESCRIPTION
 fdcdee1a4bb395d5f752e8ae81b20256 *NAMESPACE
-0291476ababffd73903ce96e533da3ef *NEWS
-fe4e57704e08f2b7c4825e802d52e455 *R/fetch_heathdata.R
+e9d0aa95068f9e6b531681edc9df3a7b *NEWS
+4da1b4710802d56c43a8a09d8df9aa14 *R/fetch_heathdata.R
 434a1a054ee8247ba98f92f70079ccc6 *R/rHealthDataGov-internal.R
 228d3b5037333d763cbf39551e884d97 *data/datalist
 def387918f14ce129695ab238f307c39 *data/filters.rda
 aceabb0207c30f7b1c4ca934b2385ef6 *data/resources.rda
-a9cc12379f2f751edae5429eb8dbfaf6 *man/fetch_healthdata.Rd
+3e4e65e0cf5bcd55f300d41b1bd7b8b0 *man/fetch_healthdata.Rd
 c00733fa91ee493347baec0e24d6dc25 *man/filters.Rd
-1a1fa1133e7d92dbef2442a2209dfa39 *man/rHealthDataGov-package.Rd
+24e2a34ecae1ee9d3f57a369a28955ac *man/rHealthDataGov-package.Rd
 d81078d2491a2c5b380955112ce32e9c *man/resources.Rd
